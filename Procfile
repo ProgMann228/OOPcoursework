@@ -1,0 +1,1 @@
+worker: java -jar target/OOP_fuck_it-1.0-SNAPSHOT.jar
